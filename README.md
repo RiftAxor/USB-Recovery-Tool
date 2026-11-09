@@ -4,10 +4,10 @@
 
 **Herramienta multiplataforma para rescate, limpieza de bajo nivel y reconstrucción de memorias USB, tarjetas SD y unidades extraíbles dañadas.**
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/)
-[![Bash](https://img.shields.io/badge/Bash-4.0%2B-green?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/RiftAxor/USB-Recovery-Tool)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B%20%7C%207%2B-blue?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/RiftAxor/USB-Recovery-Tool)
+[![Bash](https://img.shields.io/badge/Bash-4.0%2B-green?style=for-the-badge&logo=gnubash&logoColor=white)](https://github.com/RiftAxor/USB-Recovery-Tool)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/RiftAxor/USB-Recovery-Tool/blob/main/LICENSE)
 
 </div>
 
