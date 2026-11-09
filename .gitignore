@@ -1,0 +1,21 @@
+# Logs
+*.log
+ultimo_proceso.log
+
+# Archivos temporales de scripts
+temp_diskpart.txt
+temp_ro.txt
+*.tmp
+
+# Archivos del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editores y entornos
+.vscode/
+.idea/
+*.swp
+*.bak
